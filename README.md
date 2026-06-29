@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a graduate student specializing in **Machine Learning** and **AI systems**, with hands-on experience building everything from LLM-powered multi-agent apps to deep learning pipelines on millions of records. I love the whole journey — messy data, model training, and shipping something real.
+I'm a graduate student specializing in **Machine Learning** and **AI systems**, with hands-on experience building everything from LLM-powered multi-agent apps to deep learning pipelines on millions of records. I love the whole journey messy data, model training, and shipping something real.
 
 - 🔭 Currently building: AI agents, multimodal apps, and full-stack ML pipelines
 - 🌱 Learning: LLM fine-tuning, RAG systems, MLOps
